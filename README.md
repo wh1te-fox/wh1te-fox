@@ -11,7 +11,7 @@
 
 📚 Education:
 
-- Bachelor of Information Systems Engineering Bluefields Indian and Caribbean University
+- Bluefields Indian and Caribbean University
 
 💬 About Me: Hi! I'm Edgard, a junior developer passionate about learning and improving every day. I love exploring new technologies and finding creative solutions to challenging problems. I am always open to learning from other developers and collaborating on exciting projects.
 
