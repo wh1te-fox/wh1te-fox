@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-  src="other/BlackBanner.png" 
+  src="other/Banner.png" 
   alt="logo" />
 </p>
 
