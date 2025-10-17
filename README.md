@@ -22,9 +22,17 @@ Hi! I'm Edgard, a junior developer passionate about learning and improving every
 
 ## 💻 Tech Stack:
 
-- Python
+- Python (intermediate)
+  - Flet (basic)
+- SQL (basic)
+- HTML & CSS (basic)
+- Git (basic)
+- Terminal (basic)
 
-- Git
+## 🎨 Design Tools:
+
+- Figma (basic)
+
 
 ## 🌐 Socials:
 
